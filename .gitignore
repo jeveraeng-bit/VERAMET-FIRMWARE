@@ -1,0 +1,22 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+
+# VS Code & IDEs
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Firmware binaries
+*.bin
+*.elf
+*.hex
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
